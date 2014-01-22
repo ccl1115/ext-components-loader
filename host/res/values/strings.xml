@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">host-app</string>
+    <string name="load_the_external_activity">Load the external activity</string>
+    <string name="load_the_external_service">Load the external service</string>
+</resources>
